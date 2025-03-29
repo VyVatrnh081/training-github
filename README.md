@@ -2,8 +2,11 @@
 git and github
 # sự khác nhau giữa git và github
 ![Untitled](https://github.com/user-attachments/assets/4f33f5d3-ad06-406d-bd87-655a86376881)
-# git
-# github
+
+- Git là nền tảng, còn GitHub là dịch vụ cung cấp giao diện và công cụ giúp sử dụng Git dễ dàng hơn.
+- Có thể sử dụng Git mà không cần GitHub, nhưng GitHub thì cần Git để hoạt động.
+- GitHub giúp làm việc nhóm hiệu quả hơn nhờ các tính năng như pull request, issue tracking, code review.
+- Ngoài GitHub, còn có các dịch vụ khác cũng dựa trên Git như GitLab, Bitbucket, Azure DevOps.
 # repository
 Nơi phân loại, lưu trữ các file cấu hình, các script, các bản nháp, ... và nó được lưu ở máy trạm và ở GitHub Server.
 - 2 loại:
