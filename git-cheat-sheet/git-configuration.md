@@ -1,3 +1,7 @@
-# setup
-# markdown
-https://github.com/lucthienphong1120/Markdown-syntax?tab=readme-ov-file#1-ti%C3%AAu-%C4%91%E1%BB%81---heading
+# Configuring user information used across all local repositories
+### 1. set a name that is identifiable for credit when review version history
+_git config --global user.name “[firstname lastname]”_
+### 2. set an email address that will be associated with each history marker
+_git config --global user.email “[valid-email]”_
+### 3. set automatic command line coloring for Git for easy reviewing
+_git config --global color.ui auto_
