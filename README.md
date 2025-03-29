@@ -1,13 +1,14 @@
 # training-github
 git and github
 # sự khác nhau giữa git và github
+![Untitled](https://github.com/user-attachments/assets/4f33f5d3-ad06-406d-bd87-655a86376881)
 # git
 # github
 # repository
 Nơi phân loại, lưu trữ các file cấu hình, các script, các bản nháp, ... và nó được lưu ở máy trạm và ở GitHub Server.
 - 2 loại:
-  + Local Repository:
-  + Remote Repository:
+  + Remote repository: Là repository để chia sẻ giữa nhiều người và bố trí trên server chuyên dụng.
+  + Local repository: Là repository bố trí trên máy tính, dành cho một người dùng sử dụng.
 - 3 trạng thái của Repository:
   + Working directory
   + Stagging area
@@ -16,6 +17,9 @@ Nơi phân loại, lưu trữ các file cấu hình, các script, các bản nh�
 - Một nhánh là một phiên bản song song của mã nguồn trong kho lưu trữ (Repository).
 - Cho phép làm việc trên các tính năng hoặc sửa lỗi mà không ảnh hưởng đến nhánh chính (main/ master).
 - Khi hoàn thành, có thể hợp nhất (Merge) nhánh vào nhánh chính.
+- 2 loại:
+  + Branch local: là branch lưu ở local. Nó có thể được liên kết với 1 branch ở remote hoặc không. git cmd: **git branch**
+  + Branch remote: là branch lưu ở remote. Branch này có thể fetch về local nhưng không tạo thêm branch ở local. Hiểu đơn giản là bạn có thể tải branch ở remote về nhưng không tạo 1 branch ở local với tên tương tự và tất nhiên sẽ không liên kết nó với một branch local nào cả. Để hiển thị branch remote có trên local dùng lệnh **git branch -r**
 ## 2. Clone
 - Tải xuống 1 bản sao đầy đủ của Git Repository từ GitHub về máy tính cục bộ (local computer/ owner computer).
 - Bao gồm toàn bộ lịch sử thay đổi (commit history) và tất cả các tập tin trong repo.
