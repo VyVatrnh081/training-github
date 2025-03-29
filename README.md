@@ -1,5 +1,6 @@
 # training-github
 git and github
+những khái niệm cơ bản
 # sự khác nhau giữa git và github
 ![Untitled](https://github.com/user-attachments/assets/4f33f5d3-ad06-406d-bd87-655a86376881)
 
