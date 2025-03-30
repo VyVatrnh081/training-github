@@ -1,11 +1,11 @@
 # Retrieving updates from another repository and updating local repos
 ### 1. add a git URL as an alias
-git remote add [alias] [url]
+_git remote add [alias] [url]_
 ### 2. fetch down all the branches from that Git remote
- git fetch [alias]
+_git fetch [alias]_
 ### 3. merge a remote branch into your current branch to bring it up to date
- git merge [alias]/[branch]
+_git merge [alias]/[branch]_
 ### 4. transmit local branch commits to the remote repository branch
- git push [alias] [branch]
+_git push [alias] [branch]_
 ### 5. fetch and merge any commits from the tracking remote branch
- git pull
+_git pull_
