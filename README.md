@@ -13,10 +13,6 @@ Nơi phân loại, lưu trữ các file cấu hình, các script, các bản nh�
 - 2 loại:
   + Remote repository: Là repository để chia sẻ giữa nhiều người và bố trí trên server chuyên dụng.
   + Local repository: Là repository bố trí trên máy tính, dành cho một người dùng sử dụng.
-- 3 trạng thái của Repository:
-  + Working directory
-  + Stagging area
-  + Git 
 ## 1. Branch
 - Một nhánh là một phiên bản song song của mã nguồn trong kho lưu trữ (Repository).
 - Cho phép làm việc trên các tính năng hoặc sửa lỗi mà không ảnh hưởng đến nhánh chính (main/ master).
