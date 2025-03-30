@@ -34,8 +34,8 @@ Nơi phân loại, lưu trữ các file cấu hình, các script, các bản nh�
 - git cmd: **git merge <branch-name>**
 ## 5. Pull Request 
 - Yêu cầu để hợp nhất thay đổi từ một nhánh vào một nhánh khác trên GitHub.
-- Khi bạn tạo một pull request, người khác có thể xem xét, nhận xét và phê duyệt trước khi thay đổi được hợp nhất.
-- Đặc biệt quan trọng khi làm việc nhóm
+- Khi tạo một pull request, người khác có thể xem xét, nhận xét và phê duyệt trước khi thay đổi được hợp nhất.
+- Đặc biệt quan trọng khi làm việc nhóm.
 ## 6. Remote
 - Là kho lưu trữ Git được lưu trên GitHub hoặc một máy chủ từ xa thay vì trên máy tính cá nhân.
 - Cho phép nhiều người cùng làm việc trên cùng một dự án.
