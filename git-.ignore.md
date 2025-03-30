@@ -18,3 +18,6 @@
 - *.log → Bỏ qua tất cả các tệp có phần mở rộng .log.
 - build/ → Bỏ qua toàn bộ thư mục build.
 - Có thể thêm chú thích trong .gitignore bằng cách sử dụng ký tự #.
+# Nguồn tham khảo thêm
+- [what is git .ignore](https://www.geeksforgeeks.org/what-is-git-ignore-and-how-to-use-it/)  (geeksforgeeks)
+- [gitignore](https://git-scm.com/docs/gitignore) (gitdocs)
